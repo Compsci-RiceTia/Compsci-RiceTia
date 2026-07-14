@@ -21,6 +21,6 @@ I'm **Tia Rice**, an Electrical Engineering student at **Northwestern University
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: *(your LinkedIn URL)*
+💼 LinkedIn: www.linkedin.com/in/tia-rice
 
-✉️ Email: *(your Northwestern email)*
+✉️ Email: tiarice2028@u.northwestern.edu
