@@ -1,7 +1,7 @@
 # github.com-Compsci-RiceTia
 # 👋 Hi there! Welcome to my GitHub!
 
-I'm **Tia Rice**, an Electrical Engineering student at **Northwestern University** with a minor in **Artificial Intelligence**. I'm passionate about robotics, AI, embedded systems, and using technology to solve real-world problems. I enjoy learning new tools, building projects, and collaborating on research that bridges software and hardware.
+I'm **Tia Rice**, an Electrical Engineering student at **Northwestern University** with a minor in **Artificial Intelligence**. I enjoy learning new tools, building projects, and collaborating on research that bridges software and hardware.
 
 ## 🌟 About Me
 
