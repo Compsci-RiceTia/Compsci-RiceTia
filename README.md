@@ -9,7 +9,7 @@ I'm **Tia Rice**, an Electrical Engineering student at **Northwestern University
 
 🌱 **Currently Learning:** Machine learning with PyTorch, Linux, ROS2, and high-performance computing.
 
-🤖 **Interests:** Artificial Intelligence, Robotics, Computer Vision, Research Computing, and Embedded Systems.
+🤖 **Interests:** Energy systems and power infrastructure, battery technologies, machine learning, embedded systems, and scientific computing.
 
 🎯 **Goal:** Contribute to impactful research, build projects that combine hardware and software, and continue growing as an engineer.
 
